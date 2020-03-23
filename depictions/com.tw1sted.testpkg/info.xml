@@ -1,6 +1,6 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>com.tw1sted.testpkg</id>
+	<name>Test Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is a TEST PACKAGE. It is for me to use as a template for future packages. DOWNLOAD AT YOUR OWN RISK.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
