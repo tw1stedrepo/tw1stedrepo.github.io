@@ -1,14 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Repo Source Code</name>
+			<url>https://github.com/tw1stedrepo/tw1stedrepo.github.io/</url>
+			<iconclass>fab fa-github-square</iconclass>
 		</link>
 	</footerlinks>
 </repo>
